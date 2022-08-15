@@ -1,0 +1,32 @@
+# -*- coding: utf-8 -*-
+
+from unittest import TestCase
+import random as rd
+
+# import tests.utils as utils
+# import utils
+
+import {contest_id}.a.main as a
+import {contest_id}.b.main as b
+import {contest_id}.c.main as c
+import {contest_id}.d.main as d
+import {contest_id}.e.main as e
+import {contest_id}.f.main as f
+
+
+class Test_{contest_id}_b(TestCase):
+
+    def test_get_answer_1(self):
+        pass
+
+
+class Test_{contest_id}_c(TestCase):
+
+    def test_get_answer_1(self):
+        pass
+
+
+class Test_{contest_id}_d(TestCase):
+
+    def test_get_answer_1(self):
+        pass
